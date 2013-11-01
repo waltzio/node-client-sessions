@@ -10,7 +10,7 @@
   },
   "dependencies" : {
     "cookies" : "0.3.6",
-    "node-proxy": "0.6.0"
+    "node-proxy": "0.7.0"
   },
   "devDependencies": {
     "vows": "0.7.0",
